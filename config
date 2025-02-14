@@ -33,8 +33,8 @@ font-family = Iosevka Nerd Font Regular
 font-family-bold = Iosevka Nerd Font Bold
 font-family-italic = Iosevka Nerd Font Italic
 font-family-bold-italic = Iosevka Nerd Font Bold Italic
-font-size = 13
-shell-integration-features = no-sudo,no-title
+font-size = 14
+# shell-integration-features = no-sudo,no-title
 confirm-close-surface = false
 
 background = #000000
@@ -42,7 +42,7 @@ background-opacity = 0.0
 foreground = #ff007b
 
 keybind = cmd+g>r=reload_config
-window-padding-x = 2
+window-padding-x = 4
 #
 # # Spacing around the equals sign does not matter.
 # # All of these are identical:
