@@ -28,13 +28,13 @@ window-padding-balance = true
 cursor-style = block
 mouse-hide-while-typing = true
 macos-titlebar-proxy-icon = hidden
-title = " "
+# title = " "
 font-family = Iosevka Nerd Font Regular
 font-family-bold = Iosevka Nerd Font Bold
 font-family-italic = Iosevka Nerd Font Italic
 font-family-bold-italic = Iosevka Nerd Font Bold Italic
 font-size = 14
-# shell-integration-features = no-sudo,no-title
+# shell-integration-features = no-title
 confirm-close-surface = false
 
 background = #000000
