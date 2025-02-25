@@ -20,19 +20,24 @@
 # # The config file consists of simple key-value pairs,
 # # separated by equals signs.
 window-decoration = false
+gtk-titlebar = false
+gtk-adwaita = false
 bold-is-bright = true
 term = xterm-ghostty
 window-save-state = always
 adjust-cell-height = 25%
 window-padding-balance = true
-cursor-style = block
+# cursor-style = block
+cursor-invert-fg-bg = true
 mouse-hide-while-typing = true
 macos-titlebar-proxy-icon = hidden
 # title = " "
-font-family = Iosevka Nerd Font Regular
-font-family-bold = Iosevka Nerd Font Bold
-font-family-italic = Iosevka Nerd Font Italic
-font-family-bold-italic = Iosevka Nerd Font Bold Italic
+minimum-contrast = 1.05
+font-family = IosevkaFox Nerd Font
+font-style = Medium
+font-style-bold = Bold
+font-style-italic = Medium Italic
+font-style-bold-italic = Bold Italic
 font-size = 14
 # shell-integration-features = no-title
 confirm-close-surface = false
