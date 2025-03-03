@@ -33,13 +33,12 @@ mouse-hide-while-typing = true
 macos-titlebar-proxy-icon = hidden
 # title = " "
 minimum-contrast = 1.05
-font-family = IosevkaFox Nerd Font
-font-style = Medium
-font-style-bold = Bold
-font-style-italic = Medium Italic
-font-style-bold-italic = Bold Italic
-font-size = 14
-# shell-integration-features = no-title
+font-family = Iosevka Fox
+font-style = Extended
+font-style-bold = Extended Bold
+font-style-italic = Extended Italic
+font-style-bold-italic = Extended Bold Italic
+font-size = 12
 confirm-close-surface = false
 
 background = #000000
@@ -47,6 +46,7 @@ background-opacity = 0.0
 foreground = #ff007b
 
 keybind = cmd+g>r=reload_config
+keybind = cmd+shift+t=ignore
 window-padding-x = 4
 #
 # # Spacing around the equals sign does not matter.
