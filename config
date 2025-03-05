@@ -34,10 +34,10 @@ macos-titlebar-proxy-icon = hidden
 # title = " "
 minimum-contrast = 1.05
 font-family = Iosevka Fox
-font-style = Extended
-font-style-bold = Extended Bold
-font-style-italic = Extended Italic
-font-style-bold-italic = Extended Bold Italic
+font-style = Regular
+font-style-bold = Bold
+font-style-italic = Italic
+font-style-bold-italic = Bold Italic
 font-size = 12
 confirm-close-surface = false
 
