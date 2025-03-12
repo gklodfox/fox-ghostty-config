@@ -33,12 +33,12 @@ mouse-hide-while-typing = true
 macos-titlebar-proxy-icon = hidden
 # title = " "
 minimum-contrast = 1.05
-font-family = Iosevka Fox Regular Extended
-font-style = Regular
+font-family = IosevkaFoxV2
+font-style = SemiBold
 font-style-bold = Bold
-font-style-italic = Italic
+font-style-italic = Oblique
 font-style-bold-italic = Bold Italic
-font-size = 10
+font-size = 13
 confirm-close-surface = false
 
 # background = #000000
