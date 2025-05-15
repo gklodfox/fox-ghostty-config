@@ -28,3 +28,33 @@ palette = 15=#f2f2f2
 cursor-color = #ff007b
 selection-background = #ff007b
 selection-foreground = #0d0d0d
+
+window-decoration = false
+gtk-titlebar = false
+gtk-adwaita = false
+bold-is-bright = true
+term = xterm-ghostty
+window-save-state = always
+adjust-cell-height = 25%
+window-padding-balance = true
+# cursor-style = block
+cursor-invert-fg-bg = true
+mouse-hide-while-typing = true
+macos-titlebar-proxy-icon = hidden
+# title = " "
+minimum-contrast = 1.05
+font-family = IosevkaFoxV2
+font-style = SemiBold
+font-style-bold = Bold
+font-style-italic = Oblique
+font-style-bold-italic = Bold Italic
+font-size = 13
+confirm-close-surface = false
+
+# background = #000000
+background-opacity = 0.2
+# foreground = #ff007b
+
+keybind = cmd+g>r=reload_config
+keybind = cmd+shift+t=ignore
+window-padding-x = 2
